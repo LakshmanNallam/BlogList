@@ -1,0 +1,9 @@
+.userInfoCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.imgAspex {
+  width: 30%;
+}
